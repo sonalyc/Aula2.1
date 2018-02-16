@@ -1,4 +1,5 @@
 # Aula2.1
 Matt Damon
-Paola de Oliveira
+Brad Pitt
 Caua Reymond
+Laura Cardoso
