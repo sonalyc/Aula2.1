@@ -1,2 +1,4 @@
 # Aula2.1
-Ambiente de Desenvolvimento e Operações
+Matt Damon
+Paola de Oliveira
+Caua Reymond
